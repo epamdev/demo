@@ -9,3 +9,5 @@ author_profile: https://github.com/apilets
 ##New Page
 #Content
 End
+
+[My Tutorial](my-tutorial)
